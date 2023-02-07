@@ -9,7 +9,7 @@ For more information of this project, please refer to our paper:
 # Prerequisites
 matlab R2018a
 
-<img src="ROC_curves.png" alt="ROC curves">
+<img src="ROC_curve.png" alt="ROC curves">
 ROC curves for different dataset
 
 # Citation
