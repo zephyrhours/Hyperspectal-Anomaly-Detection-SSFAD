@@ -10,7 +10,7 @@ For more information of this project, please refer to our paper:
 matlab R2018a
 
 <img src="ROC_curve.png" alt="ROC curves">
-ROC curves for different dataset
+Fig.6  ROC curves for different dataset
 
 # Citation
 If these codes and dataset are helpful for you, please cite this paper:
